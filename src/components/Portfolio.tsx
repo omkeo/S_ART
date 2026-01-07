@@ -6,7 +6,7 @@ export default function Portfolio() {
       id: 1,
       title: 'Custom Pencil Portrait',
       description: 'Handmade with Precision',
-      image: 'https://images.pexels.com/photos/3573346/pexels-photo-3573346.jpeg?auto=compress&cs=tinysrgb&w=600',
+      image: 'https://www.freepik.com/free-psd/pencil-drawing-photo-effect_37853167.htm#fromView=search&page=1&position=2&uuid=ab90cfee-930f-42f6-82aa-4736f174f0b2&query=custome+pencil+potraits',
     },
     {
       id: 2,
